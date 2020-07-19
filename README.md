@@ -1,4 +1,4 @@
-# VUE练手 - Note
+# VUE练手 - Slides
 ---
 ## 知识点
 1. VUE常用指令的典型使用
